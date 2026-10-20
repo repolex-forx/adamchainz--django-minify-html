@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-minify-html/commit/ec8c17abe8cf8e5acfcfb5228aaeb84b1e3eebeb",
       "git:hexsha": "ec8c17abe8cf8e5acfcfb5228aaeb84b1e3eebeb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-minify-html/commit/421e45226a80ad04d43feaa1d0b71935448fac44",
